@@ -108,6 +108,10 @@ pip install -r requirements.txt
 - 📚 **Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, TensorFlow.  
 - 🖧 **SDN Simulation**: Mininet and OpenFlow.  
 - 🔍 **Dimensionality Reduction**: PCA.
+  
+---
+## 📚 **Links**
+- Latex Report: [EC431 Project Report](https://www.overleaf.com/read/cwtwdgfqwkfj#f07efe)
 
 ---
 ## 📚 **References**
