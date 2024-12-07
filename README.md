@@ -27,7 +27,7 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the Repository
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/SDN-Traffic-Classification](https://github.com/IIITV-5G-and-Edge-Computing-Activity/SDN-Traffic-Classification.git
+git clone https://github.com/IIITV-5G-and-Edge-Computing-Activity/SDN-Traffic-Classification.git
 
 cd SDN-Traffic-Classification
 ```
@@ -110,3 +110,5 @@ pip install -r requirements.txt
 - 🔍 **Dimensionality Reduction**: PCA.
 
 ---
+## 📚 **References**
+- Research Paper: [Traffic Classification and Prediction in Computer Networks Using Machine Learning](https://www.sciencedirect.com/science/article/pii/S1877050920312928?ref=pdf_download&fr=RR-2&rr=8defc9d77d04032e)
