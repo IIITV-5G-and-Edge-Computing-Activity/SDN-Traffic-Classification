@@ -111,7 +111,8 @@ pip install -r requirements.txt
   
 ---
 ## 📚 **Links**
-- Latex Report: [EC431 Project Report](https://www.overleaf.com/read/cwtwdgfqwkfj#f07efe)
+- Latex Report: [link](https://www.overleaf.com/read/cwtwdgfqwkfj#f07efe)
+- Project Explanation Video: [link](https://drive.google.com/file/d/1Ck5d_CefULr9KrpvQ8s6a9O1iKiQseDi/view?usp=sharing)
 
 ---
 ## 📚 **References**
